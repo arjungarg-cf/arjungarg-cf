@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey, I'm Arjun</h2>
+<h2 align="left">👋 Hey, I'm Arjun</h2>
 
 - 🔭 I'm currently working as a Software Engineer at Cult.fit
 - 🌱 I’m currently learning React.js
@@ -6,7 +6,9 @@
 - 😄 Pronouns: he/him
 - 📫 You can reach me at: arjung1411@gmail.com
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjungarg-cf&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=arjungarg-cf&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  </p>
 <!--
 **arjungarg-cf/arjungarg-cf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
